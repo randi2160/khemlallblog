@@ -1,0 +1,115 @@
+/**
+ * Customizer Icon Settings Area
+*/
+.customize-pane-parent .control-section .accordion-section-title:before{
+    font-family: dashicons;
+    content: "\f103";
+    font-size: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+#accordion-panel-ample_construction_general_settings .accordion-section-title:before{
+    content: "\f111";
+}
+
+#accordion-panel-nav_menus .accordion-section-title:before{
+    content: "\f333";
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116";
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116";
+}
+
+#accordion-section-custom_css .accordion-section-title:before{
+    content: "\f499";
+}
+#accordion-section-ample_construction_banner_slider .accordion-section-title:before{
+    content: "\f233";
+}
+#accordion-panel-ample_construction_homepage_settings_panel .accordion-section-title:before{
+    content: "\f233";
+
+}
+#accordion-section-ample_construction_top_header_info_section .accordion-section-title:before{
+    content: "\f05a";
+    font-family: FontAwesome;
+
+}
+#accordion-panel-ample_construction_design_layout_options .accordion-section-title:before{
+
+    content: "\f111";
+
+}
+#accordion-panel-ample_construction_theme_options .accordion-section-title:before{
+    content: "\f100";
+
+}
+#accordion-section-ample_construction_copyright_info_section .accordion-section-title:before{
+    content: "\f316";
+}
+
+#accordion-section-title_tagline .accordion-section-title:before{
+    content: "\f0ac";
+    font-family: FontAwesome;
+}
+#accordion-section-colors .accordion-section-title:before{
+    content: "\f1fb";
+    font-family: FontAwesome;
+}
+#accordion-section-header_image .accordion-section-title:before{
+    content: "\f03e";
+    font-family: FontAwesome;
+}
+#accordion-section-background_image .accordion-section-title:before{
+    content: "\f03e";
+    font-family: FontAwesome;
+}
+
+#accordion-section-static_front_page .accordion-section-title:before{
+    content: "\f0ad";
+    font-family: FontAwesome;
+}
+
+#accordion-section-ample-construction .accordion-section-title:before{
+    content: "\f219";
+    font-family: FontAwesome;
+}
+
+
+div#widget-1_ample_construction_featured_product-__i__ .widget-top {
+
+    background: #fab702;
+}
+div#widget-2_construction-feature-widget-__i__ .widget-top {
+
+    background: #fab702;
+}
+div#widget-3_ample-construction-recent-post-widget-__i__ .widget-top {
+
+     background: #fab702;
+ }
+div#widget-4_ample-construction-work-widget-__i__ .widget-top {
+
+    background: #fab702;
+}
+div#widget-5_ample-construction-quote-widget-__i__ .widget-top {
+
+    background: #fab702;
+}
+div#widget-6_ample-construction-service-widget-__i__ .widget-top {
+
+    background: #fab702;
+}
+div#widget-7_ample-construction-team-widget-__i__ .widget-top {
+
+    background: #fab702;
+}
+div#widget-8_construction-testimonials-widget-__i__ .widget-top {
+
+    background: #fab702;
+}

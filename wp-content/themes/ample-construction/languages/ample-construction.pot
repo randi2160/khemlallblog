@@ -1,0 +1,1276 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Ample Construction\n"
+"POT-Creation-Date: 2018-05-04 01:24+0545\n"
+"PO-Revision-Date: 2018-05-04 01:24+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:70
+msgid "404 NOT Found!!!"
+msgstr ""
+
+#: 404.php:70
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: footer.php:53
+msgid "https://www.amplethemes.com/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:56
+#, php-format
+msgid " Power by AmpleThemes %s"
+msgstr ""
+
+#: front-page.php:58
+msgid "Know More"
+msgstr ""
+
+#: functions.php:45
+msgid "Primary"
+msgstr ""
+
+#: functions.php:122
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:124 functions.php:133 functions.php:143 functions.php:152
+#: functions.php:161
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:131
+msgid "HomePage Widgets Area "
+msgstr ""
+
+#: functions.php:141
+msgid "Footer1 "
+msgstr ""
+
+#: functions.php:150
+msgid "Footer2 "
+msgstr ""
+
+#: functions.php:159
+msgid "Footer3 "
+msgstr ""
+
+#: header.php:11
+msgid "Skip to content"
+msgstr ""
+
+#: inc/ample-themes/customizer/footer-option/footer-option-customizer.php:13
+msgid "Footer Option"
+msgstr ""
+
+#: inc/ample-themes/customizer/footer-option/footer-option-customizer.php:33
+msgid "Copyright"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:12
+msgid " Layout/Design Option"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:24
+msgid "Default Sidebar Layout Option"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:45
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:46
+msgid ""
+"Home/front page does not have sidebar. Inner pages like blog, archive single "
+"page/post Sidebar Layout. However single page/post sidebar can be overridden."
+"if you need on a page and post sidebar from here, you need to first set "
+"default sidebar on page and post"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:65
+msgid "Blog/Archive Layout Option"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:85
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:106
+msgid "Show Description From"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:125
+msgid "Description Length In Words"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:139
+msgid "Feature Image Option For Single post / Page"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/ample-construction-customization.php:162
+msgid "Show/Hide Feature Image For Single Page/post"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/constructions-layout-functions.php:6
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/constructions-layout-functions.php:7
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/constructions-layout-functions.php:8
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/constructions-layout-functions.php:29
+msgid "Excerpt"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/constructions-layout-functions.php:30
+msgid "Content"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/constructions-layout-functions.php:50
+#: inc/ample-themes/customizer/slider-sections/slider-function.php:13
+msgid "Show"
+msgstr ""
+
+#: inc/ample-themes/customizer/layout-design/constructions-layout-functions.php:51
+#: inc/ample-themes/customizer/slider-sections/slider-function.php:14
+msgid "Hide"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:11
+msgid "HomePage Slider Settings"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:23
+msgid "Slider Section"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:46
+msgid "Slider Option"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:47
+msgid "Show/hide option for homepage Slider Section."
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:72
+msgid "Slider Category"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:73
+msgid "Select Category for Homepage Slider Section"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:95
+msgid "No of Slider"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:117
+msgid "Get Started Button"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:138
+msgid "Get Started Button Link"
+msgstr ""
+
+#: inc/ample-themes/customizer/slider-sections/slider-customizer.php:139
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:183
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:205
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:223
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:242
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:262
+msgid "Use full url link"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:13
+msgid "Theme Option"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:27
+msgid "Color Options"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:42
+msgid "Primary Color"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:43
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:67
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:91
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:115
+msgid ""
+"We recommend choose  different  background color but not to choose similar "
+"to font color"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:66
+msgid "Top Header Background Color"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:90
+msgid "Top Footer Background Color"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:114
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:131
+msgid "Front Page Options"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:149
+msgid "Hide Blog Posts or Static Page on Front Page"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:166
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:186
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:207
+msgid "Show/Hide Breadcrumb in Home page"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:224
+msgid "Color Reset Options"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:244
+msgid "Reset Options"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-customizer.php:245
+msgid ""
+"Caution: Reset theme settings according to the given options. Refresh the "
+"page after saving to view the effects"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-functions.php:12
+msgid "Enable"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-functions.php:13
+msgid "Disable"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-functions.php:32
+msgid "Do Not Reset"
+msgstr ""
+
+#: inc/ample-themes/customizer/theme-options-customizer/theme-options-functions.php:33
+msgid "Reset All"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:11
+msgid "Top Header Info"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:28
+msgid "Top Header Info Option"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:29
+msgid "Show/hide Option for Top Header Info Section."
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:52
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:95
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:160
+msgid "Insert Font Awesome Class Name"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:73
+msgid "Phone Number"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:116
+msgid "Email Address"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:135
+msgid "Hide/Show Social Menu"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:182
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:204
+msgid "Facebook Url Link"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:222
+msgid "Youtube Url Link"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:241
+msgid "linkedin Url Link"
+msgstr ""
+
+#: inc/ample-themes/customizer/top-header-customizer/top-header-info-customizer.php:261
+msgid "twitter Url Link"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-icon.php:19
+msgid "Font Awesome class"
+msgstr ""
+
+#. translators: '%1$s: br and link start, %1$s: %2$s for link end, %3$s code start, %4$s  code end
+#: inc/ample-themes/metabox/metabox-icon.php:39
+#, php-format
+msgid "%1$sRefer here%2$s for icon class. For example: %3$sfa-desktop%4$s"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:49
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:58
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:93
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:115
+msgid "You can set up the sidebar content"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:117
+msgid "here"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:9
+msgid "Contact Us"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:12
+msgid "Please Contact Us if you required any helps to build houses"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:21
+msgid "AC: Quotation Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:22
+msgid "Construction Contact Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:38
+#: inc/ample-themes/widgets/ample-construction-feature-section.php:36
+#: inc/ample-themes/widgets/ample-construction-recents-post-widgets.php:37
+#: inc/ample-themes/widgets/ample-construction-service-widgets.php:36
+#: inc/ample-themes/widgets/ample-construction-team-widgets.php:34
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:36
+#: inc/ample-themes/widgets/ample-construction-work.php:39
+msgid "Title"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:44
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:43
+msgid "Sub Title"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:50
+msgid "Button Text1"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:56
+msgid "Button Link1"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:63
+msgid "Image Size[1300 X 630]"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-Quote-widgets.php:76
+#: inc/ample-themes/widgets/ample-construction-feature-section.php:82
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:87
+msgid "Upload Image"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:20
+msgid "Add Widget to Display WooCommerce Featured Product."
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:23
+msgid "AC: Featured Product"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:43
+msgid "Title:"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:48
+msgid "Product product_type:"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:50
+msgid "Latest Products"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:51
+msgid "Featured Products"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:52
+msgid "On Sale Products"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:53
+msgid "Top Seller Products"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:54
+msgid "Certain Category"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:59
+msgid "Category:"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:64
+msgid "Select"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:74
+msgid "Number of Products:"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:231
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:251
+msgid "SOLD OUT"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:238
+#, php-format
+msgid "% off Sale!"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:258
+msgid "Top Seller"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-ecommerce-shop-widget.php:289
+msgid "Add to Wishlist"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-feature-section.php:11
+msgid "Our Feature"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-feature-section.php:22
+msgid "AC: Feature Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-feature-section.php:23
+msgid "Construction Feature Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-feature-section.php:45
+#: inc/ample-themes/widgets/ample-construction-recents-post-widgets.php:46
+#: inc/ample-themes/widgets/ample-construction-service-widgets.php:44
+#: inc/ample-themes/widgets/ample-construction-team-widgets.php:44
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:51
+#: inc/ample-themes/widgets/ample-construction-work.php:49
+msgid "Select Category"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-feature-section.php:49
+#: inc/ample-themes/widgets/ample-construction-service-widgets.php:48
+#: inc/ample-themes/widgets/ample-construction-team-widgets.php:48
+msgid "Select Category "
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-feature-section.php:69
+msgid "Image Size[400 X 650]"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-recents-post-widgets.php:11
+msgid "Latest Blogs"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-recents-post-widgets.php:21
+msgid "AC: Latest Blog Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-recents-post-widgets.php:22
+msgid "Construction Latest Blog Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-recents-post-widgets.php:50
+#: inc/ample-themes/widgets/ample-construction-work.php:53
+msgid "From Recent Posts"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-recents-post-widgets.php:162
+#: template-parts/content-search.php:53 template-parts/content.php:51
+msgid "Read More"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-service-widgets.php:11
+msgid "Our Services"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-service-widgets.php:22
+msgid "AC: Service Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-service-widgets.php:23
+msgid "construction Service Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-team-widgets.php:9
+msgid "Our Team"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-team-widgets.php:20
+msgid "AC: Team Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-team-widgets.php:21
+msgid "Construction Team Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:9
+msgid "WHAT OUR CLIENT SAYS"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:21
+msgid "AC: Testimonials Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:22
+msgid "Construction Testimonials Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:55
+msgid "Select Categories "
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-testimonials-widgets.php:74
+msgid "Image Size[1300 X 650]"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-work.php:11
+msgid "Our Work"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-work.php:22
+msgid "AC: Our Work Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-construction-work.php:23
+msgid "Construction Recent Post Section"
+msgstr ""
+
+#: inc/customizer-function-category.php:31
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: inc/customizer-pro/class-customize.php:76
+msgid "Premium Verison"
+msgstr ""
+
+#: inc/customizer-pro/class-customize.php:77
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/default.php:27
+msgid "Get Started!"
+msgstr ""
+
+#: inc/default.php:31
+msgid "Copyright All Rights Reserved"
+msgstr ""
+
+#: inc/default.php:47
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/default.php:63 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:58
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:75
+msgid " "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:91 inc/template-tags.php:140
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:146
+#, php-format
+msgid "Post in %1$s "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:150
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: library/TGM/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: library/TGM/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: library/TGM/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: library/TGM/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: library/TGM/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: library/TGM/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: library/TGM/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: library/TGM/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/TGM/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/TGM/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/TGM/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/TGM/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:386
+#: library/TGM/class-tgm-plugin-activation.php:827
+#: library/TGM/class-tgm-plugin-activation.php:2533
+#: library/TGM/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:387
+#: library/TGM/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:388
+#: library/TGM/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: library/TGM/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: library/TGM/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: library/TGM/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:934
+#: library/TGM/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:1121
+#: library/TGM/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: library/TGM/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: library/TGM/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: library/TGM/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: library/TGM/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: library/TGM/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: library/TGM/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: library/TGM/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: library/TGM/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: library/TGM/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: library/TGM/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: library/TGM/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: library/TGM/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: library/TGM/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:3509
+#: library/TGM/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:3509
+#: library/TGM/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: library/TGM/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: library/TGM/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/TGM/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: library/TGM/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/TGM/plugin-slug.php:66
+msgid "Contact Form 7"
+msgstr ""
+
+#: library/TGM/plugin-slug.php:73
+msgid "WooCommerce"
+msgstr ""
+
+#: library/TGM/plugin-slug.php:79
+msgid "One Click Demo Import"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:244
+msgid "Browse"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:758
+#: library/breadcrumbs/breadcrumbs.php:787
+#: library/breadcrumbs/breadcrumbs.php:814
+#: library/breadcrumbs/breadcrumbs.php:841
+#: library/breadcrumbs/breadcrumbs.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:759
+#: library/breadcrumbs/breadcrumbs.php:815
+#: library/breadcrumbs/breadcrumbs.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:760
+#: library/breadcrumbs/breadcrumbs.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: library/demo-import.php:8
+msgid "Demo Import"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-page.php:33 template-parts/content-search.php:48
+#: template-parts/content-single.php:40 template-parts/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Ample Construction"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.amplethemes.com/downloads/ample-constructions/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ample Construction is beautiful,an atractive, modern, easy to use and "
+"responsive WordPress theme with colorful design and stunning flexibility.it "
+"is designed to be used for multi purposes like business, corporates, "
+"eCommerce, personal,blog or other creative agencies site.It is clean, "
+"responsive and SEO friendly theme.Although it is focused for construction "
+"area, it can be used in any type of business websites. It is very flexible "
+"and provided with convenient features and options for your business.It "
+"features multiple sections on the front page including favicon, logo, "
+"widgets, address bar, social menus, and customizer to customize theme easily."
+"View full demo at https://demo.amplethemes.com/ample-construction/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ample Themes"
+msgstr ""
